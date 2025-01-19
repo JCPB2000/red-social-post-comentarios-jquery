@@ -7,7 +7,7 @@ Este proyecto es una aplicación web diseñada para conectar a los amantes de lo
 Se ha desarrollado utilizando tecnologías modernas como HTML, CSS, JavaScript ES6+ y jQuery, con un enfoque en la programación modular, la manipulación avanzada del DOM y un diseño visual responsivo.
 
 ---
-
+![Proyecto](https://github.com/JCPB2000/red-social-post-comentarios-jquery/blob/master/imagen/P1.jpg?raw=true)
 ## Objetivo Principal
 
 Desarrollar una aplicación web funcional que permita:
@@ -115,9 +115,9 @@ export const deleteComment = (post, commentId) => {
 ## Equipo de Desarrollo
 Este proyecto fue desarrollado como parte de una actividad académica. Los integrantes del equipo son:
 
-Julio Cesar Paguay Bonilla
-Tiffani Nathalia Torres Díaz
-Yampuezan Burbano Verónica Janeth
+* Julio Cesar Paguay Bonilla
+* Tiffani Nathalia Torres Díaz
+* Yampuezan Burbano Verónica Janeth
 
 ## FIN
 
